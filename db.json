@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "609ada320666020b63f61aaa",
+        "title": "REST",
+        "content": "REST is short for Representational State Transfer. It is an arch. style for designing API."
+    },
+    {
+        "_id": "609ada730666020b63f61aab",
+        "title": null,
+        "content": "Less than 5% of product managers can code"
+    },
+    {
+        "_id": "609adb7b0666020b63f61aac",
+        "title": "API",
+        "content": "API stands for Application Programming Interface. It is a set of subroutine definitions, communication protocols, and tools for building software. In general terms, it is a set of clearly defined methods of communication among various components. A good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer."
+    },
+    {
+        "_id": "609adbb80666020b63f61aad",
+        "title": "Bootstrap",
+        "content": "This is a framework developed by Twitter that contains pre-made front-end templates for web design"
+    },
+    {
+        "_id": "609adbc20666020b63f61aae",
+        "title": "DOM",
+        "content": "The Document Object Model is like an API for interacting with our HTML"
+    },
+    {
+        "_id": "60a7b2b36d612b0611af2686",
+        "title": "ReactJS",
+        "content": "Reusable components"
+    },
+    {
+        "_id": "60a7b4e1ef3bb506ebf37e15",
+        "title": "NodeJS",
+        "content": "Using it for building current news API",
+        "__v": 0
+    },
+    {
+        "_id": "60bcda459fc53708943b31dc",
+        "title": "Figma",
+        "content": "Built for designing User interfaces",
+        "__v": 0
+    },
+    {
+        "_id": "60bd0bcab6d57b07147c8afe",
+        "title": "Product Management",
+        "content": "The most in-demand skill for product managers is project management ",
+        "__v": 0
+    }
+]
